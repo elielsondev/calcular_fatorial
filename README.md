@@ -8,7 +8,7 @@ O objetivo principal foi criar uma aplicação o mais simples possível, permiti
 
 ## Como Usar  
 
-1. Acesse `https://calcular-fatorial.vercel.app/` em um navegador web.  
+1. Acesse ```https://calcular-fatorial.vercel.app/``` em um navegador web.  
 2. Insira um número no campo designado.  
 3. Clique no botão `=` para calcular o fatorial.  
 4. O resultado será exibido na tela.  
