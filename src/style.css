@@ -2,4 +2,57 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-style: oblique;
+  font-size: 3em;
+  margin-top: 50px;
+}
+
+#input-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+#input {
+  font-size: 40px;
+  font-family: sans-serif;
+  border: 0;
+  border-radius: 10px;
+  background-color: rgb(0, 4, 255);
+  margin: 1em;
+}
+
+#button {
+  font-size: 30px;
+  border: 0;
+  background-color: green;
+  padding: 5px 15px;
+  border-radius: 50%;
+  margin-left: -40px;
+}
+
+#button:active {
+  background-color: darkgreen;
+}
+
+#result {
+  font-size: 30px;
+  font-style: italic;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
 }
